@@ -1,4 +1,5 @@
-# this is not mine. I just refer https://github.com/minhpascal/clustered-redis
+# this is not mine. I just refer this site. 
+https://github.com/minhpascal/clustered-redis
 
 # Redis Cluster in Docker Swarm (mode)
 
